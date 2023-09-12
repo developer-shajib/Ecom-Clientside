@@ -1,0 +1,16 @@
+.tags-list {
+  display: flex;
+  gap: 5px;
+}
+
+.tags-list a {
+  padding: 4px 10px;
+  border: 1px solid #d6d5d5;
+  color: #000;
+  transition: 0.3s !important;
+}
+
+.tags-list a:hover {
+  color: #fff;
+  background: #000;
+}
