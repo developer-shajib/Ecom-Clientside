@@ -1,4 +1,4 @@
-import Shop from '../pages/Shop/shop.jsx';
+import Shop from '../pages/Shop/Shop.jsx';
 import Cart from '../pages/cart/Cart.jsx';
 import Checkout from '../pages/checkout/Checkout.jsx';
 import Home from '../pages/home/Home.jsx';
