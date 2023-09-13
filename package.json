@@ -1,7 +1,7 @@
 {
   "name": "client",
   "private": true,
-  "homepage": "./developershajib.usememo.xyz",
+  "homepage": "https://developershajib.usememo.xyz",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
